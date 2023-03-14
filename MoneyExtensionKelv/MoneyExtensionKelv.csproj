@@ -12,11 +12,11 @@
     <Company>balta.io</Company>
     <PackageDescription>Extension to convert decimal to integer</PackageDescription>
     <Description>Extension to convert decimal to integer</Description>
-    <RepositoryUrl>https://github.com/andrebaltieri/money-extensions</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/andrebaltieri/money-extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/oGrandeK/money-extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/oGrandeK/money-extensions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageTags>money;int;decima;converter</PackageTags>
+    <PackageTags>money;int;decimal;converter</PackageTags>
     <Title>MoneyExtensions</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
