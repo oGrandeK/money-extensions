@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>c515f689222547feb0a1df726f6a4035MoneyExtensions</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Kelvim Kauam</Authors>
     <Company>balta.io</Company>
